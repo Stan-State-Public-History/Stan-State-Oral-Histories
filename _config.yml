@@ -18,14 +18,14 @@ source-code: https://github.com/oralhistoryasdata/template
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History as Data Template
+title: Stan State Oral Histories
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: Stan State since 1960 with visualized oral history interviews
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Oral History as Data (OHD) provides a static web framework for users to publish and analyze coded oral history and qualitative interviews on the web."
+description: "This site provides visualizations of oral history interviews recorded since the 1980s with faculty, staff, students, and community connected to Stan State."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: dcnb
+author: Jennifer Cullison and Stan State students
 
 ##########
 # COLLECTION SETTINGS
@@ -48,10 +48,10 @@ metadata: demo-ohd-metadata
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Stanislaus State"
+organization-link: https://csustan.edu
+#organization-logo-banner: https://
+#organization-logo-nav: https://
 
 ##########
 # ROBOTS EXCLUDE
